@@ -1,4 +1,11 @@
-### Hi there 👋
+
+> Two roads diverged into woods, and I - I took the one less traveled by, And that has made all the difference - Robert Frost
+
+## I'M RONAK PATEL
+
+### A READER, THINKER AND WEB DEVELOPER
+
+Learn More about me at [ronakjpatel.com](https://www.ronakjpatel.com)
 
 <!--
 **patelronak2/patelronak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
