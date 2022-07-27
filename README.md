@@ -3,8 +3,6 @@
 
 ## I'M RONAK PATEL
 
-### A READER, THINKER AND WEB DEVELOPER
-
 Learn More about me at [ronakjpatel.com](https://www.ronakjpatel.com)
 
 <!--
