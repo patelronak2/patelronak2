@@ -1,7 +1,7 @@
 
 > Two roads diverged into woods, and I - I took the one less traveled by, And that has made all the difference - Robert Frost
 
-## I'M RONAK PATEL
+## Ronak Patel
 
 Learn More about me at [ronakjpatel.com](https://www.ronakjpatel.com)
 
