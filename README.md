@@ -3,7 +3,7 @@
 
 ## Ronak Patel
 
-Learn More about me at [ronakjpatel.com](https://www.ronakjpatel.com)
+Learn more about me at [ronakjpatel.com](https://www.ronakjpatel.com)
 
 <!--
 **patelronak2/patelronak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
